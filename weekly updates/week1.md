@@ -1,35 +1,42 @@
-# Introduction:
 
-Hello everyone! I am Adaaku Peter, and I am thrilled to be a part of the Ethereum protocol fellowship. My focus during this fellowship is on the Execution Layer, EVM, Crypto, Merge, and working with Geth. This progress report covers my activities and achievements during the first week of the fellowship.
 
-## Week 1 Highlights:
+Greetings, fellow developers! :wave:
 
-Orientation and Reading List: I attended the fellowship's orientation session, where I gained a clear understanding of the fellowship's objectives and expectations. I received the reading list, which includes essential resources for building a strong foundation in the target areas.
+I'm thrilled to share the highlights of my progress during Week 1 of the Ethereum Protocol Fellowship Cohort 4.
 
-* [Etheruem Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
-* [Ethereum Improvement Proposals (EIPs)]( https://eips.ethereum.org/)
-* [Geth Documentation](https://geth.ethereum.org/docs/)
+## What I Accomplished This Week
 
-## Challenges Faced:
+### Go and Ethereum
 
-While I made significant progress during the first week, I encountered a few challenges:
+During the past week, I dedicated myself to learning and honing my skills in Go (Golang) and Ethereum. I successfully completed various Go exercises and even worked on a couple of projects. If you're interested, you can find my Golang practice repository on GitHub.
+[GO-Lang Practice by Scar Face](https://github.com/scarfacedotcom/Go-Practice)
 
-Technical Complexity: The Ethereum ecosystem is vast and intricate, which can be overwhelming for beginners. Understanding concepts like the EVM and Crypto requires careful reading and research.
+### Additionally, I delved into the fascinating world of Nodes and Clients, understanding their roles in the Ethereum ecosystem.
 
-Navigating GitHub: The vastness of the Geth GitHub repository made it challenging to find specific issues that match my interests. I need to improve my GitHub search skills to target relevant topics effectively.
+The Merge - Ethereum's Evolution
 
-## Plan for Next Week:
+Before The Merge, Ethereum had separate networks for its consensus layer and execution layer. Transactions and user activities were processed within the execution layer, while the consensus layer, known as the Beacon Chain, operated independently since December 2020. This Beacon Chain introduced proof-of-stake and managed validators based on data from the Ethereum network.
 
-To overcome the challenges and make steady progress, my plan for the next week is as follows:
+With The Merge, Ethereum is undergoing a significant transition to proof-of-stake by interconnecting these formerly separate networks. The execution and consensus clients now join forces to verify Ethereum's state, seamlessly integrating the consensus and execution layers into a unified system.
 
-Continue Ethereum Yellow Paper: I will continue reading the Ethereum Yellow Paper, focusing on the EVM's operational semantics and its interactions with the Execution Layer.
+Embracing Modular Design
 
-Hands-on with Geth: I aim to set up Geth on my local machine and run some basic commands. This will give me practical exposure to Geth's functionalities and help me gain confidence in navigating the codebase.
+The Merge's integration follows a modular design, with various software components working cohesively, known as "encapsulated complexity." This approach ensures a smooth and efficient execution of The Merge while promoting the reusability of individual clients. For instance, these versatile clients can be harnessed within the layer 2 ecosystem for various applications and use cases.
 
-Engage with Community: I plan to actively engage with the Ethereum developer community, participating in discussions, asking questions, and seeking guidance from experienced developers.
+## Next Steps - Focusing on Go Ethereum
 
-Identify Contribution Opportunities: I will further explore the Geth GitHub repository to identify specific issues or features where I can make meaningful contributions.
+As I eagerly await Week 2 of the fellowship, I have outlined my objectives for the upcoming days:
 
-## Conclusion:
+My main focus will be on Go Ethereum (Geth), one of the original and widely adopted implementations of the Ethereum protocol. Geth, written in Go, boasts the largest user base and offers an array of tools for both developers and users. To deepen my understanding, I intend to explore the following reading materials:
 
-The first week of the fellowship has been both exciting and challenging. I am thrilled to be part of this journey, and I am eager to continue my exploration of the Ethereum ecosystem.I am confident that I will gain the knowledge and skills needed to become a proficient Ethereum protocol developer.
+"A Deep Dive into Go Ethereum" - This informative video will provide valuable insights into the inner workings of Geth.
+Link: https://www.youtube.com/watch?v=c4N79UXZqSc
+
+"Ethereum Development with Go" - An online resource that will enhance my skills in Ethereum development using Go.
+Link: https://goethereumbook.org/en/
+
+## Looking Forward
+
+I am genuinely excited about the weeks ahead in the fellowship and eager to share further updates with all of you!
+
+Thank you for your unwavering support and interest in my progress! :smile:
